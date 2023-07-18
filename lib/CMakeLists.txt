@@ -1,0 +1,1 @@
+add_subdirectory(test_library EXCLUDE_FROM_ALL)
